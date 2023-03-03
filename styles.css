@@ -1,0 +1,649 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+
+    background-color: #343444;
+}
+
+
+.main-container{
+
+    display: flex;
+}
+
+
+
+.container-1{
+    font-size: smaller;
+position: absolute;
+right: 75%;
+color: #fff;
+
+}
+.container-2{
+
+    position: absolute;
+    right: 55%;
+    color: #fff;
+    font-size: smaller
+}
+.container-3{
+    position: absolute;
+    right: 66%;
+    color: #fff;
+    font-size: smaller
+}
+
+.container-4{
+
+position: absolute;
+right: 46%;
+color: #fff;
+font-size: smaller
+}
+.container-5{
+
+    position: absolute;
+    left: 6%;
+    color: #fff;
+    font-size: smaller
+}
+.fa-linkedin-in{
+
+    position: absolute;
+    right: 13.5%;
+    color: #fff;
+
+}
+.fa-square-github{
+
+    position: absolute;
+    right: 17%;
+    color: #fff;
+}
+.fa-bars{
+
+    position: absolute;
+    right: 10%;
+    color: #fff;
+}
+.image{
+
+    width: 63%;
+    position: absolute;
+    top: -11%;
+    left: 5%;
+}
+.first{
+    opacity: 424%;
+    height: 69%;
+    width: 47%;
+    border: 2px solid #2B2C38;
+    border-radius: 50%;
+    position: absolute;
+    top: 5.7%;
+    left: 25%;
+    background-color: #2B2C38;
+}
+.im{
+    opacity: 45%;
+    font-size: 255%;
+    position: absolute;
+    top: 23.7%;
+    left: 6%;
+    color: #fff;
+}
+.name{
+  font-family: 'Source Code Pro', monospace;
+    font-size: 350%;
+    position: absolute;
+    top: 29.7%;
+    left: 6%;
+    color: #fff;
+
+}
+
+.txt{
+    color: #fff;
+    position: absolute;
+    top: 40.7%;
+    left: 6%;
+    font-size: small;
+    line-height: 132%;
+    opacity: 70%;
+
+}
+
+
+
+.line{
+
+    border-bottom: 3px solid #F3B323;
+    width: 18%;
+    position: absolute;
+    top: 40%;
+    left: 6%;
+}
+
+.service{
+
+    color: #fff;
+    position: absolute;
+    top: 17%;
+    right: 29%;
+    font-size: small;
+    line-height: 2%;
+    opacity: 55%
+
+
+}
+.service-2{
+    color: #fff;
+    margin: -2%;
+    padding: -6%;
+    position: absolute;
+    right: 13%;
+    top: 24%;
+    font-size: 112%;
+
+}
+
+
+.show{
+
+    color: #F3B323;
+    font-size: 80%;
+    position: absolute;
+    top: 34%;
+    LEFT: 66%;
+
+
+
+}
+.fa-arrow-right{
+    color: #F3B323;
+    position: absolute;
+    top: 34.5%;
+    right: 25%;
+    font-size: small;
+}
+
+
+
+
+
+.major{
+
+    height: 115%;
+    width: 100%;
+    position: absolute;
+    top: 90.7%;
+    left: 0%;
+    background-color: #272935;
+
+}
+.foot{
+
+
+
+    height: 15%;
+    width: 87%;
+    position: absolute;
+    top: 83%;
+    left: 6%;
+    right: 10%;
+    background-color: #403F51;
+}
+
+.box-1{
+
+    height: 7%;
+    width: 15%;
+    position: absolute;
+    top: 87.7%;
+    left: 9%;
+    background-color: #353545;
+    opacity: 80%;
+}
+.box-2{
+    height: 7%;
+    width: 15%;
+    position: absolute;
+    top: 87.7%;
+    left: 30%;
+    background-color: #353545;
+    opacity: 80%;
+}
+.box-3{
+    height: 7%;
+    width: 15%;
+    position: absolute;
+    top: 87.7%;
+    left: 52%;
+    background-color: #353545;
+    opacity: 80%;
+}
+.box-4{
+    height: 7%;
+    width: 15%;;
+    position: absolute;
+    top: 87.7%;
+    left: 75%;
+    background-color: #353545;
+    opacity: 80%;;
+}
+.fa-meta{
+    color: #0668E1;
+    position: absolute;
+    top: 89.7%;
+    left: 12.5%;
+}
+.meta{
+
+    color: #fff;
+    position: absolute;
+    top: 89.8%;
+    left: 14.5%;
+}
+
+.google{
+
+    position: absolute;
+    top: 86.7%;
+    left: 32%;
+    width: 11%;
+
+}
+.linked{
+    color: #fff;
+    position: absolute;
+    top: 90%;
+    left: 56.5%;
+
+}
+.fa-linkedin{
+
+    color:#4285F4;
+    position: absolute;
+    top: 90.25%;
+    left: 61%;
+}
+
+
+
+
+.fa-slack{
+    color: #fff;
+    position: absolute;
+    top: 89.7%;
+    left: 79%;
+    width: 2%;
+}
+.slack{
+    color: #fff;
+    position: absolute;
+    top: 90.2%;
+    left: 81.5%;
+}
+
+
+.fb{
+    opacity: 60%;
+    height: 4%;
+    width: 2%;
+    border: 2px solid #4E4A5A;
+    border-radius: 50%;
+    position: absolute;
+    top: 39%;
+    left: 65.4%;
+    background-color: #4E4A5A;
+}
+.insta{
+
+    opacity: 60%;
+    height: 4%;
+    width: 2%;
+    border: 2px solid #4E4A5A;
+    border-radius: 50%;
+    position: absolute;
+    top: 39%;
+    left: 70.1%;
+    background-color: #4E4A5A;
+}
+.twitter{
+    opacity: 60%;
+    height: 4%;
+    width: 2%;
+    border: 2px solid #4E4A5A;
+    border-radius: 50%;
+    position: absolute;
+    top: 38.8%;
+    left: 74%;
+    background-color: #4E4A5A;
+}
+.pin{
+
+    opacity: 60%;
+    height: 4%;
+    width: 2%;
+    border: 2px solid#4E4A5A;
+    border-radius: 50%;
+    position: absolute;
+    top: 39%;
+    left: 78.2%;
+    background-color:#4E4A5A;
+}
+.can{
+    font-size: 175%;
+    color: #fff;
+    position: absolute;
+    top: 116%;
+    left: 6%;
+}
+.txt-2{
+    line-height: 132%;
+    color: #fff;
+    position: absolute;
+    top: 131%;
+    left: 6%;
+    font-size: 80%;
+    opacity: 55%
+}
+
+
+
+.tfz{
+    color: #F3B323;
+    position: absolute;
+    top: 145%;
+    left: 6%;
+    font-size: 150%
+}
+.ozz{
+    color: #F3B323;
+    position: absolute;
+    top: 145%;
+    left: 18%;
+    font-size: 150%
+}
+.pc{
+    line-height: 132%;
+    color: #fff;
+    position: absolute;
+    top: 150%;
+    left: 6%;
+    font-size: 66%;
+    opacity: 70%
+}
+.cn{
+    color: #fff;
+    position: absolute;
+    top: 150%;
+    left: 18%;
+    font-size:  66%;
+    opacity: 70%
+}
+
+.tz{
+    color: #F3B323;
+    position: absolute;
+    top: 153.5%;
+    left: 6%;
+    font-size: 150%
+
+}
+.oz{
+    color: #F3B323;
+    position: absolute;
+    top: 153.5%;
+    left: 18%;
+    font-size: 150%;
+
+}
+.cr{
+    line-height: 132%;
+    color: #fff;
+    position: absolute;
+    top: 158.5%;
+    left: 6%;
+    font-size: 66%;
+    opacity: 70%
+}
+.yx{
+    color: #fff;
+    position: absolute;
+    top: 158.5%;
+    left: 18%;
+    font-size: 66%;
+    opacity: 70%
+}
+.ui-box{
+    background-color:  #403F50;
+    height: 35%;
+    width: 25%;
+    position: absolute;
+    top: 169%;
+    left: 6%;
+}
+.web-box{
+
+    background-color:  #403F50;
+    height: 35%;
+    width: 25%;
+    position: absolute;
+    top: 169%;
+    left: 36%;
+}
+.mob-box{
+    background-color: #403F50;
+    height: 35%;
+    width: 25%;
+    position: absolute;
+    top: 169%;
+    left: 67%;
+
+}
+.ui{
+    color: #fff;
+    font-size: large;
+    position: absolute;
+    top: 118%;
+    left: 65%;
+
+}
+.pro-1{
+
+    color: #fff;
+    font-size: smaller;
+    position: absolute;
+    top: 123%;
+    left: 65%;
+    font-size: 70%;
+    opacity: 55%;
+}
+.l-1{
+    border-bottom: 1px solid grey;
+    width: 40%;
+    position: absolute;
+    top: 129%;
+    left: 52%;
+}
+.fdev{
+    color: #fff;
+    font-size: large;
+    position: absolute;
+    top: 136%;
+    left: 65%;
+}
+.pro-2{
+    color: #fff;
+    font-size: smaller;
+    position: absolute;
+    top: 141%;
+    left: 65%;
+    font-size: 70%;
+    opacity: 55%;
+
+}
+.l-2{
+    border-bottom: 1px solid grey;
+    width: 40%;
+    position: absolute;
+    top: 148%;
+    left: 52%;
+}
+.mdev{
+
+    color: #fff;
+    font-size: large;
+    position: absolute;
+    top: 154%;
+    left: 65%;
+}
+
+.pro-3{
+
+    color: #fff;
+    font-size: smaller;
+    position: absolute;
+    top: 159%;
+    left: 65%;
+    font-size: 70%;
+    opacity: 55%;
+
+}
+.l-3{
+    border-bottom: 1px solid grey;
+    width: 40%;
+    position: absolute;
+    top: 165%;
+    left: 52%;
+}
+.ui-ux{
+
+    position: absolute;
+    top: 112.7%;
+    left: 52%;
+    width: 12%;
+}
+.front{
+    position: absolute;
+    top: 131.7%;
+    left: 52%;
+    width: 12%;
+}
+.app{
+    position: absolute;
+    top: 151%;
+    left: 52%;
+    width: 12%;
+}
+.con-ui{
+    color: #fff;
+    font-size: large;
+    position: absolute;
+    top: 180%;
+    left: 8%;
+}
+.con-web{
+    color: #fff;
+    font-size: large;
+    position: absolute;
+    top: 180%;
+    left: 38%;
+}
+.con-app{
+    color: #fff;
+    font-size: large;
+    position: absolute;
+    top: 180%;
+    left: 70%;
+
+}
+.txt-ui{
+
+    line-height: 132%;
+    color: #fff;
+    position: absolute;
+    top: 186%;
+    left: 8%;
+    font-size: 80%;
+    opacity: 55%;
+
+}
+.txt-web{
+
+    line-height: 132%;
+    color: #fff;
+    position: absolute;
+    top: 185%;
+    left: 38%;
+    font-size: 80%;
+    opacity: 55%;
+
+}
+.txt-app{
+
+    line-height: 132%;
+    color: #fff;
+    position: absolute;
+    top: 185%;
+    left: 70%;
+    font-size: 80%;
+    opacity: 55%;
+}
+.fa-instagram{
+    color: #F3B323;
+    position: absolute;
+    right: 28%;
+    top: 40%;
+    font-size: 100%;
+}
+.fa-facebook-f{
+
+    color: #F3B323;
+    position: absolute;
+    right: 33%;
+    top: 40%;
+    font-size: 100%;
+
+}
+.fa-twitter{
+    color: #F3B323;
+    position: absolute;
+    right: 24%;
+    top: 40%;
+    font-size: 100%;
+
+}
+.fa-pinterest-p{
+
+    color: #F3B323;
+    position: absolute;
+    right: 20%;
+    top: 40%;
+    font-size: 100%;
+}
+
+
+.f1{
+
+    position: absolute;
+    top: 173%;
+    left: 8%;
+    width: 3%;
+}
+.f2{
+
+    position: absolute;
+    top: 173%;
+    left: 38%;
+    width: 3%;
+}
+
+.f3{
+
+    position: absolute;
+    top: 173%;
+    left: 70%;
+    width: 3%
+}
